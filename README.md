@@ -1,6 +1,6 @@
 ### Hi, I'm Darian 👋🏾
 
-![welcome](https://user-images.githubusercontent.com/114269409/206871163-ec360574-4272-42a0-8d8e-60e83be63dc5.png)
+<!-- ![welcome](https://user-images.githubusercontent.com/114269409/206871163-ec360574-4272-42a0-8d8e-60e83be63dc5.png) -->
 
 
 🔭 I’m currently working on My own portfolio website that utilizes HTML, CSS, and JavaScript...
